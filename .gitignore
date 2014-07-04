@@ -3,3 +3,15 @@
 .DS_Store
 _cache/
 .coverage
+
+.project
+.pydevproject
+.settings/
+build/
+coursera.egg-info/
+db/
+dist/
+linearprogramming-001/
+neuralnets-2012-001/
+optimization-002/
+smac-001/
